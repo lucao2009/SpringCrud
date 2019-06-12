@@ -44,7 +44,6 @@ import javax.persistence.ManyToOne;
 		return result;
 	}
 
-	
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
